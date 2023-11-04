@@ -4,7 +4,7 @@ From the [SF Data Science course](https://github.com/Test-19171220/sf_data_scian
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число]()
+* [Проект 0. Игра: Угадай число](https://github.com/Test-19171220/sf_data_sciance/tree/main/project_0)
 * [Проект 1.____________]()
 * [Проект 2. ___________]()
 
