@@ -3,10 +3,8 @@
 ## Оглавление  
 [1. Описание проекта](https://github.com/Test-19171220/sf_data_sciance/tree/main/project_0/readme.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/Test-19171220/sf_data_sciance/tree/main/project_0/readme.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Test-19171220/sf_data_sciance/tree/main/project_0/readme.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Test-19171220/sf_data_sciance/tree/main/project_0/readme.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Test-19171220/sf_data_sciance/tree/main/project_0/readme.md#Результат)    
-[6. Выводы](https://github.com/Test-19171220/sf_data_sciance/tree/main/project_0/readme.md#Выводы) 
+[3. Результат](https://github.com/Test-19171220/sf_data_sciance/tree/main/project_0/readme.md#Результат)    
+[4. Выводы](https://github.com/Test-19171220/sf_data_sciance/tree/main/project_0/readme.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
@@ -27,21 +25,8 @@
 **Что практикуем**     
 Учимся писать хороший код на python
 
-
-### Краткая информация о данных
-....
-  
-:arrow_up:[к оглавлению](.README.md#Оглавление)
-
-
-### Этапы работы над проектом  
-....
-
-:arrow_up:[к оглавлению](.README.md#Оглавление)
-
-
 ### Результаты:  
-....
+Код программы (https://github.com/Test-19171220/sf_data_sciance/tree/main/project_0/game_v3.py)
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
